@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nanoid": "^3.1.28",
+    "nodemon": "^2.0.13",
+    "randomcolor": "^0.6.2",
+    "socket.io": "^4.2.0"
+  }
+}
