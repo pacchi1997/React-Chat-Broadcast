@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.chat{
+  height: 400px;
+  width: 500px;
+  border-radius: 20px;
+  margin: 10px;
+  background-color: rgb(17, 17, 17);
+  overflow-y: scroll;
+}
+span{
+  font-size: small;
+  padding: 5px 10px;
+
+  border-radius: 20px;
+}
